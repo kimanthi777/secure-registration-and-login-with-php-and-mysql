@@ -1,2 +1,6 @@
-# secure-registration-and-login-with-php-and-mysql
-This is a secure registration and login system created in PHP and MySql
+# Login and SignUp system with PHP and MySQL database
+This is a simple Php and MySql script which enables users of a website to sign up and login in. 
+
+
+## Authors
+[Kevin Kimanthi](https://github.com/kimanthi777)
